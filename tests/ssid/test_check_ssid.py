@@ -1,7 +1,7 @@
 
 import unittest
 
-from src import ssid
+from wifi_utils import ssid
 
 
 class TestCheckSsid(unittest.TestCase):
