@@ -6,7 +6,6 @@
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/example/ssid.py",
-            "cwd": "${workspaceFolder}/src",
             "args": [],
             "justMyCode": true
         }
