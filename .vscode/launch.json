@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "SSID Example",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/example/ssid.py",
+            "cwd": "${workspaceFolder}/src",
+            "args": [],
+            "justMyCode": true
+        }
+    ]
+}
