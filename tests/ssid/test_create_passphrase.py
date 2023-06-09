@@ -4,7 +4,7 @@ import unittest
 from wifi_utils import ssid
 
 
-class TestCheckSsid(unittest.TestCase):
+class Test(unittest.TestCase):
 
     def test_True(self):
         res = ssid.create_passphrase(8)

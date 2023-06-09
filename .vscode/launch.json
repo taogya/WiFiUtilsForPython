@@ -8,6 +8,14 @@
             "program": "${workspaceFolder}/example/ssid.py",
             "args": [],
             "justMyCode": true
+        },
+        {
+            "name": "Mac Address Example",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/example/mac_addr.py",
+            "args": [],
+            "justMyCode": true
         }
     ]
 }
